@@ -31,3 +31,14 @@ Note that this method **requires** your ISP allowing Port Forwarding service for
 pip install chess
 pip install chess-board
 ```
+
+## Usage
+
+### Online
+- Reconfigure setting (IP addresses, Port numbers) to your preferences
+- Run the `socket_server.py` script then `socket_client.py`
+- After the game's finished connection handling'll clear up by itself
+
+### Offline
+- Applied the two 'player' using custom Class or Library/ Package in its dedicated code cell.
+- Run (using `Google Colab Notebook` or `Jupyter Notebook` will need slight changes)
